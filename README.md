@@ -37,4 +37,4 @@
 
     docker run -d -p 5173:5173 --network vite docker-vite
 ```
-最後在http://localhost:5173/跑初畫面就成功了
+最後在 http://localhost:5173/ 跑初畫面就成功了
