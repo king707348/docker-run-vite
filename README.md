@@ -1,4 +1,4 @@
-# 🐳 [DevOps] 實作 Vite 前端專案容器化 (Dockerize Vite App)
+# 🐳 [DevOps] 實作 Vite 前端專案容器化
 本文件說明如何將基於 Vite 的前端應用程式容器化，並確保在 Docker 環境中開發伺服器能正常運行。
 
 ```
